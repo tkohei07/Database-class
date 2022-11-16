@@ -1,3 +1,3 @@
 # Database-class
 
-save the codes in Database Management Class
+save the codes of Designing the auction database project in Database Management Class.
