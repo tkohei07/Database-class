@@ -1,0 +1,1 @@
+select Count(*) as sol2 from User where location = "New York";
